@@ -61,4 +61,4 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
-gem 'slack-notifier'
+gem "slack-notifier"
